@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: pjs;
+  src: url("../assets/fonts/PlusJakartaSans-VariableFont_wght.ttf")
+    format("truetype");
+}
+
+html {
+  font-family: pjs;
+  font-size: 15px;
+}
+
+/* @tailwind base { */
+/* } */
